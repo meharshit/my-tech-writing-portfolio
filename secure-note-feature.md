@@ -1,11 +1,11 @@
 ---
-title: Secure Note Sharing
-version: 1.0
-last_updated: 2025-05-11
-author: __Harshit Satyaseel__
-audience: End User
-document_type: Feature Guide
-product_module: Notes > Share
+Title: Secure Note Sharing
+Version: 1.0
+Last_updated: 2025-05-11
+Author: __Harshit Satyaseel__
+Audience: End User
+Document_type: Feature Guide
+Product_module: Notes > Share
 ---
 
 # Secure Note Sharing
@@ -21,7 +21,7 @@ The Secure Note Sharing feature allows users to share notes securely via an *enc
 | Student | Share class notes with friend securely | Friend views note once via link |
 | Manager | Send meeting notes to client quickly | Client views notes via link (no login needed) |
 | Researcher | Share sensitive draft securely | Link expires after 24 hours, ensuring safety |
-| Admin | Has all the administrative rights to approve the share | Anytime |
+| Admin | Has all the administrative rights to approve the share | Once approved, users can see the shared note |
 
 ## How to Share a Secure Note
 
